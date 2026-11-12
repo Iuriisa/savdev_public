@@ -1,6 +1,6 @@
 # SAVDEV Software Studio
 
-<img src="savdev-logo.svg" alt="SAVDEV Software Studio" width="360">
+<img src="Sleek_Feline_Tech_Logo.png" alt="SAVDEV Software Studio" width="360">
 
 SAVDEV Software Studio is an independent software studio founded by Iurii Savelev. Its flagship product is PsoriCare.ai.
 
